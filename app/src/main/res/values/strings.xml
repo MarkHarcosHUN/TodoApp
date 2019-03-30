@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Todo App</string>
+    <string name="todo_title">todoAppⓇ</string>
+    <string name="appwidget_text">todoAppⓇ</string>
+    <string name="configure">Configure</string>
+    <string name="add_widget">Add widget</string>
+    <string name="aboutus">Készítette: Németh Márk\nKészült a Soproni Egyetem Simonyi Károly Karának Informatikai és Gazdasági Intézetében.\nAz alkalmazás az EFOP-3.4.3-16-2016-00022 számú, \"QUALITAS\" Minőségi felsőoktatás fejlesztés Sopronban, Szombathelyen és Tatán elnevezésű projekt keretében készült.</string>
+</resources>

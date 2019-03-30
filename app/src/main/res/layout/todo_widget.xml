@@ -1,0 +1,29 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/widget_shape"
+    android:orientation="vertical"
+    android:padding="@dimen/widget_margin"
+    android:id="@+id/widgetLayout"
+    >
+
+    <TextView
+        android:id="@+id/appwidget_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:layout_margin="8dp"
+        android:text="@string/todo_title"
+        android:textColor="#ffffff"
+        android:textSize="24sp" />
+
+        <TextView
+            android:textAlignment="center"
+            android:id="@+id/widget_1_row"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+</LinearLayout>
